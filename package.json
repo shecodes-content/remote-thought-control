@@ -1,6 +1,6 @@
 {
   "name": "remote-throught-control",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "how we routinely encode and decode thoughts",
   "main": "index.js",
   "scripts": {
