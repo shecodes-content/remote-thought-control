@@ -1,0 +1,27 @@
+{
+  "name": "remote-throught-control",
+  "version": "1.0.0",
+  "description": "how we routinely encode and decode thoughts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shecodes-content/remote-throught-control.git"
+  },
+  "brain": {
+    "provides": [
+      "code",
+      "encoding",
+      "decoding"
+    ],
+    "track": "yellow"
+  },
+  "author": "Jan Bölsche <jan@lagomorph.de> (http://regular.codes)",
+  "license": "CC-SA-BY-3.0",
+  "bugs": {
+    "url": "https://github.com/shecodes-content/remote-throught-control/issues"
+  },
+  "homepage": "https://github.com/shecodes-content/remote-throught-control"
+}
