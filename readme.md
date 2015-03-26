@@ -11,6 +11,6 @@ Compared to what your brain is doing here right now, programming a machine is a 
 
 Our letters are roman, our numbers come from India (if that surprises you, then watch the following video), the programming languages are made by nerds. If you learned the first two, you can learn the last one too!
 
-![youtube][1]
+[youtube][1]
 
 [1]: https://www.youtube.com/watch?v=5sS7w-CMHkU
